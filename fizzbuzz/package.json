@@ -1,0 +1,27 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "to check if a number is divisible 5 or 3",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torkpe/fizzBuzz.git"
+  },
+  "keywords": [
+    "ap",
+    "and",
+    "gp"
+  ],
+  "author": "tope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torkpe/fizzBuzz/issues"
+  },
+  "homepage": "https://github.com/torkpe/fizzBuzz#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
