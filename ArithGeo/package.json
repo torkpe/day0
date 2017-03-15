@@ -1,0 +1,25 @@
+{
+  "name": "arithgeo",
+  "version": "1.0.0",
+  "description": "to check if an array of numbers is ap or gp",
+  "main": "ap.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torkpe/Arithgeo.git"
+  },
+  "keywords": [
+    "arithgeo"
+  ],
+  "author": "tope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torkpe/Arithgeo/issues"
+  },
+  "homepage": "https://github.com/torkpe/Arithgeo#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
